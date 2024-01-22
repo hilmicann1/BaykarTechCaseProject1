@@ -1,0 +1,402 @@
+
+# First SubSection of First section CAREER Page
+* Wait "2" seconds
+* Hover "CAREER" element
+* Wait "1" seconds
+* Click to element "Statistics"
+* Wait "2" seconds
+* Check if element "StatsHeading" contains text "STATS"
+* Wait "1" seconds
+* Click to element "OurCampuses"
+* Wait "3" seconds
+* Check if element "OurCampusesHeading" contains text "OUR CAMPUSES"
+* Click to element "ÖzdemirBayraktarR&DandProductionCenterTab"
+* Check if element "ÖzdemirBayraktarR&DandProductionCenterHeading" contains text "Özdemir Bayraktar National Technology Center"
+* Check if element "ÖzdemirBayraktarR&DandProductionCenterText" contains text "Özdemir Bayraktar National Technology Center is a large campus consisting of large social living areas as well as our R&D and production offices located in our green campus."
+* Check if element "ÖzdemirBayraktarR&DandProductionCenterText" contains text "We develop our campus with a happy campus conception, so that our employees can spend their time in the best possible way and be productive in their working lives. Özdemir Bayraktar National Technology Center is a living office with rich social life opportunities!"
+* Wait "1" seconds
+* Click to element "KesanFlightTrainingandTestCenterTab"
+* Wait "1" seconds
+* Check if element "KesanFlightTrainingandTestCenterHeading" contains text "Keşan Flight Training and Test Center"
+* Check if element "KesanFlightTrainingandTestCenterText" contains text "Our Keşan Flight Training and Test Center is home to Bayraktar TB2, one of our favorites. In this campus we carry out our studies through procedures such as maintenance, repair, test and flight activities of unmanned aerial vehicles are carried out. Here, personnels who will be taking charge on-field are given theoretical and practical training by our experienced instructors. "
+* Click to element "CorluFlightTrainingandTestCenterTab"
+*Wait "1" seconds
+* Check if element "CorluFlightTrainingandTestCenterHeading" contains text "Çorlu Flight Training and Test Center"
+* Check if element "CorluFlightTrainingandTestCenterText" contains text "Our Çorlu Flight Training and Test Center is home to Bayraktar Akıncı, one of the strongest and most combat-capable Assault Unmanned Aerial Vehicles in the world in its class. Maintenance, repair, test and flight activities for the UAV are carried out here, along with practical and theoretical training for on-site personnels guided by experienced instructors."
+*Wait "1" seconds
+* Hover "CAREER" element
+* Wait "1" seconds
+* Click to element "TheBenefitsWeOffer"
+* Wait "1" seconds
+* Check if element "TheBenefitsWeOfferHeading" contains text "BENEFITS WE OFFER"
+* Click to element "Education"
+* Check if element "EducationText" contains text "It is very valuable for us to support the training of our teammates and to see their development in our staff consisting of young and dynamic teams. We grant the right of academic leave to our personnel who continue their Master's and Doctorate education."
+* Check if element "EducationText" contains text "By supporting continuous development, we continue the training and development activities of our employees."
+* Click to element "ShuttleService"
+* Wait "1" seconds
+* Check if element "ShuttleServiceText" contains text "We provide shuttle services on the European and Anatolian sides so that the transportation of our teammates can be in the safest and best conditions."
+* Click to element "SocialLife"
+* Wait "1" seconds
+* Check if element "SocialLifeText" contains text "We know that our teammates can work more efficiently in happy and dynamic environments. For this reason, we provide our employees with the most suitable social areas."
+* Check if element "SocialLifeText" contains text "Happy working with a green campus, a modern and bright dining hall, rich and fit meals, cafeterias that host warm conversations, walking track, sports equipment, volleyball, basketball and football fields, fitness center, pool and Turkish bath, cinema rooms and playground area. environment and we are always working to improve our possibilities."
+* Click to element "Health"
+* Wait "1" seconds
+* Check if element "HealthText" contains text "We care about you and your health."
+* Check if element "HealthText" contains text "In our campuses, we have workplace physicians, emergency medical technicians and nurses that you can always consult, visit and intervene in emergencies."
+* Check if element "HealthText" contains text "In addition, we provide complementary health insurance, which is one of our fringe benefits, to all our personnel, enabling them to benefit from health facilities at contracted hospitals free of charge or at a discount."
+* Click to element "Nursery"
+* Wait "1" seconds
+* Check if element "NurseryText" contains text "Very soon…"
+* Wait "1" seconds
+* Hover "CAREER" element
+* Wait "1" seconds
+* Click to element "SocialAreas"
+* Check if element "SocialAreasHeading" contains text "SOCIAL AREAS"
+
+# First SubSection of Second section OPENPOSITIONS Page
+* Wait "2" seconds
+* Click to element "OPENPOSITIONS"
+* Wait "2" seconds
+* Check if element "OpenPositionsHeading" contains text "Open Positions At Baykar"
+* Check if element "OpenPositionsHeading" contains text "OPEN POSITIONS"
+*Click to element "ALLOPENPOSITIONS"
+*Check if element "OpenJobPositionsHeading" contains text "Open Job Positions"
+# First SubSection of Third section INTERNSHIP Page
+* Wait "2" seconds
+* Hover "INTERNSHIP" element
+* Wait "1" seconds
+* Click to element "InternshipSeasons"
+* Wait "2" seconds
+* Check if element "BaykarİnternShipHeading" contains text "BAYKAR INTERNSHIP"
+* Check if element "BaykarİnternShipText" contains text "2023 - 2024 Internship Period (Select the internship period you want to apply for)"
+* Check if element "AutumnSeason" contains text "2023 - 2024 AUTUMN TERM"
+* Check if element "SpringSeason" contains text "2023 - 2024 SPRING TERM"
+* Check if element "SummerSeason" contains text "2024 SUMMER TERM"
+
+
+# Second SubSection of Third section INTERNSHIP Page
+* Wait "2" seconds
+* Hover "INTERNSHIP" element
+* Wait "1" seconds
+* Click to element "InternshipCalendar"
+* Wait "2" seconds
+//* Check if element "SpringTermCalendarHeading" contains text "BAYKAR 2022 - 2023 SPRING TERM CALENDAR"
+//* Check if element "SummerTermCalendarHeading" contains text "BAYKAR 2023 SUMMER TERM CALENDAR"
+
+# Third SubSection of Third section INTERNSHIP Page
+* Wait "2" seconds
+* Hover "INTERNSHIP" element
+* Wait "1" seconds
+* Click to element "InternshipFAQs"
+* Wait "2" seconds
+* Check if element "FaqHeading" contains text "Frequently Asked Questions"
+* Check if element "QOneFAQ" contains text "How can I apply for Baykar's summer internship program?"
+* Wait "2000" milliseconds
+* Check if element "FAQParagraphOne" contains text "To make an internship application to our company, you need to follow our website kariyer.baykartech.com/en/. Our summer internship program is opened on our website between January and March every year. Our trainee candidates can access the \"Internship Applications\" field by clicking the \"Career\" button on our website. You can only apply for the summer internship program on our website. Applications by mail are not accepted."
+* Wait "2" seconds
+
+//Second Tab in FAQs
+* Check if element "QTwoFAQ" contains text "How can I apply for a mid-term/long-term internship at Baykar?"
+* Click to element "QTwoFAQ"
+* Wait "1000" milliseconds
+//BugText
+* Check if element "FAQParagraphTwo" contains text "Firmamıza dönem içi staj başvurusu yapmak için web sayfamızı takip edebilirsiniz. Detaylı bilgi için tıklayınız."
+
+//Third Tab in FAQs
+* Check if element "Q3FAQ" contains text "What does it mean if the internship type is voluntary or compulsory when applying to the Baykar Tetechnology summer internship program?"
+* Click to element "Q3FAQ"
+* Wait "2000" milliseconds
+* Check if element "FAQParagraphThree" contains text "A volunteer internship is a type of internship that you do with your own will and desire, for which your school does not cover your insurance. A compulsory internship is an internship insured by your school and stipulated by your department to graduate."
+* Wait "2000" milliseconds
+
+//Fourth tab in FAQs
+* Check if element "Q4FAQ" contains text "Can I apply for an internship to several units/departments in the Baykar summer internship program?"
+* Click to element "Q4FAQ"
+* Wait "2000" milliseconds
+* Check if element "FAQParagraphFour" contains text "Our trainee candidates who want to do an internship at our company during the summer period can only apply to one unit/department within one internship period. If an application is made again with the same Turkish Republic ID number, the system will not accept this application. Applications of candidates with incorrect Turkish Republic ID numbers will not be accepted."
+* Wait "2000" milliseconds
+//Fifth tab in FAQs
+* Check if element "Q5FAQ" contains text "If my internship period differs (longer or shorter) from Baykar 's minimum internship period, how many days should I specify on the internship form?"
+* Click to element "Q5FAQ"
+* Wait "2000" milliseconds
+* Check if element "FAQParagraphFive" contains text "Candidates who will do their internship voluntarily can write the periods determined by their institution for that year in the relevant field. Candidates whose internship is compulsory should also indicate to us the number of compulsory internship days determined by their school if their internship period is longer or shorter than the period determined by our company. Candidates whose internship period is shorter than the number of days we have determined can terminate their internship if they wish after completing their compulsory internship period. Candidates whose internship period is longer than the number of days we have determined are evaluated separately."
+* Wait "2000" milliseconds
+//Sixth tab in FQAs
+* Check if element "Q6FAQ" contains text "Will the make-up exam be applied to trainee candidates?"
+* Click to element "Q6FAQ"
+* Wait "2000" milliseconds
+* Check if element "FAQParagraphSix" contains text "We can hold a make-up exam for those candidates who cannot be on board due to force majeure. However, we adjust make-up exams according to the available quotas and give no guarantee to the candidates in this regard."
+* Wait "2000" milliseconds
+//Seventh tab in FQAs
+* Check if element "Q7FAQ" contains text "I didn’t fill out the Candidate Information Form during the exam, will my exam be considered invalid?"
+* Click to element "Q7FAQ"
+* Wait "2000" milliseconds
+* Check if element "FAQParagraphSeven" contains text "If you forget to fill out the Candidate Information Form during the exam, your exam will not be considered invalid. However, candidates who receive an invitation to the exam must first fill out the Candidate Information Form and start their exams upon completing the form."
+* Wait "2000" milliseconds
+//Eighth tab in FQAs
+* Check if element "Q8FAQ" contains text "Can high school students do an internship at Baykar Technology?"
+* Click to element "Q8FAQ"
+* Wait "2000" milliseconds
+* Check if element "FAQParagraphEight" contains text "The students, who study at vocational and technical high schools, can apply to do their compulsory internship at our company."
+* Wait "2000" milliseconds
+* Check if element "Q9FAQ" contains text " Will Baykar provide accommodation during my internship period?"
+* Click to element "Q9FAQ"
+* Wait "2000" milliseconds
+* Check if element "FAQParagraphNine" contains text "Our trainee candidates who will do internship in our company will provide accommodation within their own means."
+* Wait "2000" milliseconds
+* Check if element "Q10FAQ" contains text " Will Baykar provide service opportunities during my internship period?"
+* Click to element "Q10FAQ"
+* Wait "2000" milliseconds
+* Check if element "FAQParagraphTen" contains text "Our trainee candidates who will do internship in our company will provide transportation to the company with their own means on the first day of their internship. At the end of the day, planning will be made regarding the use and route of the shuttle service, and they will be able to benefit from the service opportunity throughout the internship"
+* Wait "2000" milliseconds
+* Check if element "Q11FAQ" contains text " Do I have to participate in the internship on Saturdays during my internship?"
+* Click to element "Q11FAQ"
+* Wait "2000" milliseconds
+* Check if element "FAQParagraphEleven" contains text "Our company operates on Saturdays for half a day. However, if your school's insurance does not cover Saturdays, you cannot participate in the scope of Occupational Health and Safety"
+* Wait "2000" milliseconds
+* Check if element "Q12FAQ" contains text "I will do my internship in your Keşan/Çorlu campus. What should I do on the first day?"
+* Click to element "Q12FAQ"
+* Wait "2000" milliseconds
+* Check if element "FAQParagraphTwelve" contains text "Our trainee candidates who will do their internship at our Keşan/Çorlu campus will come to our Hadımköy campus on the first day of their internship by their own means. By meeting you here, your orientation and training processes will be completed. At the end of the day, your transportation to our Keşan/Çorlu campuses will be provided by Baykar. Don't forget to come with your luggage!"
+* Wait "2000" milliseconds
+* Check if element "Q13FAQ" contains text "While applying for Baykar Summer Term internship, I chose the wrong term. Is it possible for me to make changes?"
+* Click to element "Q13FAQ"
+* Wait "2000" milliseconds
+* Check if element "FAQParagraphThirteen" contains text "Since a certain quota is planned for each semester, there is no possibility of transition between semesters. If you are accepted to the internship, an alternative start date is offered only for the period you have chosen."
+* Wait "2000" milliseconds
+
+# First SubSection of Fourth section FAQ Page
+
+* Wait "3" seconds
+* Click to element "FAQs"
+* Wait "3" seconds
+* Check if element "FAQTitle1" contains text "Can I apply for a job by bringing a CV to your company or via e-mail?"
+* Wait "2000" milliseconds
+* Check if element "FAQTitleParagraph1" contains text "You can submit your job applications to our company through our \"Website\"."
+* Wait "2" seconds
+//Second Tab in FAQ
+* Check if element "FAQTitle2" contains text "I applied to your company through your website, will I receive a response?"
+* Wait "2000" milliseconds
+* Click to element "FAQTitle2"
+* Wait "1" seconds
+* Check if element "FAQTitleParagraph2" contains text "All candidates who have applied for a job in our company receive feedback regarding their application status."
+* Wait "2" seconds
+//Third Tab in FAQ
+* Check if element "FAQTitle3" contains text "I applied for a job at Baykar Teknoloji before, do I need to apply for a job again?"
+* Wait "2000" milliseconds
+* Click to element "FAQTitle3"
+* Wait "1" seconds
+* Check if element "FAQTitleParagraph3" contains text "If your process related to your job application that you submitted to our company has been completed, you can apply for a job again with us."
+* Wait "2" seconds
+//Fourd Tab in FAQ
+* Check if element "FAQTitle4" contains text "I had applied to Baykar Teknoloji before, but my application was unsuccessful, when should I submit my application if I want to apply again?"
+* Wait "2000" milliseconds
+* Click to element "FAQTitle4"
+* Wait "1" seconds
+* Check if element "FAQTitleParagraph4" contains text "If you want to apply for a job with our company on behalf of the same position for which you were evaluated before, you can re-apply “6 months after your application is negative”. There is no time limit for different positions."
+* Wait "2" seconds
+* Click to element "AllFAQsBtn"
+//Fifth Tab in FAQ
+* Wait "1" seconds
+* Check if element "FAQTitle5" contains text "I had applied to Baykar Teknoloji before, but my application was unsuccessful, when should I submit my application if I want to apply again?"
+* Wait "2000" milliseconds
+* Click to element "FAQTitle5"
+* Wait "1" seconds
+* Check if element "FAQTitleParagraph5" contains text "If you want to apply for a job with our company on behalf of the same position for which you were evaluated before, you can re-apply “6 months after your application is negative”. There is no time limit for different positions."
+* Wait "2" seconds
+//Sixth Tab in FAQ
+* Check if element "FAQTitle6" contains text "Are there any restrictions on the postings we can apply for?"
+* Wait "2000" milliseconds
+* Click to element "FAQTitle6"
+* Wait "1" seconds
+* Check if element "FAQTitleParagraph6" contains text "You can submit your application to all of our positions you want to apply for, there are no restrictions."
+* Wait "2" seconds
+//Seventh Tab in FAQ
+* Check if element "FAQTitle7" contains text "Should I apply on your website if I apply to your job posting on Kariyer.net?"
+* Wait "2000" milliseconds
+* Click to element "FAQTitle7"
+* Wait "1" seconds
+* Check if element "FAQTitleParagraph7" contains text "After applying to our advertisement on Kariyer.net, you must apply for the related post on our website."
+* Wait "2" seconds
+//Eighth Tab in FAQ
+* Check if element "FAQTitle8" contains text "How are your recruitment and interview processes carried out?"
+* Wait "2000" milliseconds
+* Click to element "FAQTitle8"
+* Wait "1" seconds
+* Check if element "FAQTitleParagraph8" contains text "As a result of the evaluation of our Human Resources and technical teams, online or face-to-face interviews are carried out with our candidates whose preliminary evaluation processes are positive, taking into account the position they have applied for. Technical exams can also be applied during our interviews. As a result of the evaluations, our candidates are provided with feedback regarding their applications."
+* Wait "2" seconds
+//Ninth Tab in FAQ
+* Check if element "FAQTitle9" contains text "How will information about the interview result be made?"
+* Wait "2000" milliseconds
+* Click to element "FAQTitle9"
+* Wait "1" seconds
+* Check if element "FAQTitleParagraph9" contains text "Information about the results of the interview will be sent via e-mail. Candidates who want to get information about the evaluation process can reach us via our ik@baykartech.com address."
+* Wait "2" seconds
+//Tenth Tab in FAQ
+* Check if element "FAQTitle10" contains text "I am a 4th year university student, can I apply to your job postings?"
+* Wait "2000" milliseconds
+* Click to element "FAQTitle10"
+* Wait "1" seconds
+* Check if element "FAQTitleParagraph10" contains text "If the position you want to apply for has a bachelor's degree, it will be appropriate for you to apply for a job with us after you graduate."
+* Wait "2" seconds
+//Eleventh Tab in FAQ
+* Check if element "FAQTitle11" contains text "What are the working conditions and fringe benefits at Baykar Teknoloji?"
+* Wait "2000" milliseconds
+* Click to element "FAQTitle11"
+* Wait "2" seconds
+* Check if element "FAQTitleParagraph11" contains text "Our company is 08:00-18:00 on weekdays; It works between 08:00-14:00 on Saturdays."
+* Check if element "FAQTitleParagraph11" contains text "Depending on the progress of our project processes, the intensity of our working hours may vary."
+* Check if element "FAQTitleParagraph11" contains text "Shuttle service is provided to our employees in line with our current routes."
+* Check if element "FAQTitleParagraph11" contains text "Our company also provides food and beverage services to its employees."
+
+
+
+# First SubSection of Fifth section BAYKAR Page
+* Wait "3" seconds
+* Click to element "BAYKAR"
+* Switch to new tab
+* Wait "1" seconds
+* Check this "https://baykartech.com/en/" URL
+# Second SubSection of Third section BAYKAR ABOUT US Page
+* Click to element "ABOUTUS"
+* Wait "1" seconds
+* Click to element "WeareBaykar"
+* Check if element "WeareBaykarHeading" contains text "We are Baykar"
+* Click to element "ABOUTUS"
+* Click to element "Vision"
+* Wait "1" seconds
+* Check if element "VisionHeading" contains text "Vision"
+* Click to element "ABOUTUS"
+* Click to element "History"
+* Check if element "HistoryHeading" contains text "History"
+* Click to element "ABOUTUS"
+* Click to element "TechnologicalCapabilities"
+* Check if element "CompetenciesHeading" contains text "COMPETENCIES"
+* Click to element "ABOUTUS"
+* Click to element "SocialResponsibility"
+* Check if element "SocialResponsibilityHeading" contains text "Social Responsibilities"
+* Click to element "ABOUTUS"
+* Click to element "Documents"
+* Check if element "DocumentsHeading" contains text "Documents"
+* Click to element "ABOUTUS"
+* Click to element "Management"
+* Wait "1" seconds
+* Check if element "LateFounderandChairman" contains text "Late Founder and Chairman"
+* Check if element "OzdemirBayraktar" contains text "ÖZDEMİR BAYRAKTAR"
+* Check if element "ManagementHeading" contains text "Management"
+* Check if element "SelcukBayraktar" contains text "SELÇUK BAYRAKTAR"
+* Check if element "HalukBayraktar" contains text "HALUK BAYRAKTAR"
+* Click to element "ABOUTUS"
+* Click to element "News"
+* Check if element "NewsHeading" contains text "NEWS"
+* Click to element "ABOUTUS"
+* Click to element "OurQualityPolicy"
+* Check if element "OurQualityPolicyHeading" contains text "Our Quality Policy"
+# Third SubSection of Third section BAYKAR WHAT WE DO Page
+* Click to element "WHATWEDO"
+* Wait "1" seconds
+* Click to element "UnmannedAerialVehicleSystems"
+* Check if element "UnmannedAerialVehicleSystemsHeading" contains text "Unmanned Aerial Vehicle Systems"
+* Check if element "BayraktarKızılelma" contains text "Bayraktar Kızılelma"
+* Check if element "BayraktarAKINCISystem" contains text "Bayraktar AKINCI System"
+* Check if element "BayraktarTB3" contains text "Bayraktar TB3"
+* Check if element "BayraktarTB2" contains text "Bayraktar TB2"
+* Check if element "KEMANKESMiniIntelligentCruiseMissile" contains text "KEMANKES Mini Intelligent Cruise Missile"
+* Check if element "BayraktarVTOLUAV" contains text "Bayraktar VTOL UAV"
+* Check if element "BayraktarMiniUAV" contains text "Bayraktar Mini UAV"
+* Click to element "WHATWEDO"
+* Click to element "CommandControlCommunicationComputerandIntelligence"
+*Check if element "CommandControlCommunicationComputerandIntelligenceHeading" contains text "Command, Control, Communications, Computer and Intelligence (C4I)"
+* Click to element "WHATWEDO"
+* Click to element "Avionics/Subsystems"
+*Check if element "Avionics/SubsystemsHeading" contains text "Avionics/Subsystems"
+* Click to element "WHATWEDO"
+*Click to element "SimulatorSystem"
+*Check if element "SimulatorSystemHeading" contains text "Simulator System"
+* Click to element "WHATWEDO"
+*Click to element "PayloadSystems"
+*Check if element "PayloadSystemsHeading" contains text "Payload Systems"
+* Click to element "WHATWEDO"
+*Click to element "NetworkCentricSoftware"
+*Check if element "NetworkCentricSoftwareHeading" contains text "Network Centric Software"
+* Click to element "WHATWEDO"
+*Click to element "PayloadandUAVOperatorTrainings"
+*Check if element "PayloadandUAVOperatorTrainingsHeading" contains text "Payload and UAV Operator User Trainings"
+* Click to element "WHATWEDO"
+*Click to element "FightingForestFires"
+*Check if element "FightingForestFiresHeading" contains text "FIGHTING FOREST FIRES"
+* Click to element "WHATWEDO"
+*Click to element "Aftersalesservices"
+*Check if element "AftersalesservicesHeading" contains text "After sales services"
+* Wait "1" seconds
+# Fourth SubSection of Third section BAYKAR OUR FUTURE Page
+*Click to element "OURFUTURE"
+*Click to element "BayraktarTB3Nav"
+*Wait "1" seconds
+*Check if element "BayraktarTB3NavHeading" contains text "BAYRAKTAR TB3"
+*Click to element "OURFUTURE"
+*Click to element "CentralCommandandControl"
+*Check if element "CentralCommandandControlHeading" contains text "Central Command Control"
+*Click to element "OURFUTURE"
+*Click to element "Artificialintelligence"
+*Check if element "ArtificialintelligenceHeading" contains text "Artificial intelligence"
+*Click to element "OURFUTURE"
+*Click to element "CezeriFlyingCar"
+*Check if element "CezeriFlyingCarHeading" contains text "Cezeri Flying Car"
+
+#Fifth SubSection of Third section BAYKAR CAREER SHOP CONTACT Page
+*Wait "2" seconds
+*Click to element "CAREERPAGE"
+* Wait "1" seconds
+* Check this "https://kariyer.baykartech.com/en/" URL
+*Wait "1" seconds
+*Go to "https://baykartech.com/en/" address
+*Wait "1" seconds
+*Click to element "SHOP"
+* Check this "https://baykarmagaza.com/en/" URL
+*Go to "https://baykartech.com/en/" address
+*Click to element "CONTACT"
+* Check this "https://baykartech.com/en/contact/" URL
+*Go to "https://baykartech.com/en/" address
+*Click to element "LanguageTR"
+* Check this "https://baykartech.com/tr/" URL
+
+
+# First SubSection of Sixth section Language Page
+* Wait "2" seconds
+* Click to element "TR"
+* Wait "1" seconds
+* Check this "https://kariyer.baykartech.com/tr/" URL
+
+
+
+
+
+# Register to BAYKAR
+* Wait "1" seconds
+* Click to element "LOGIN"
+* Click to element "CreateAccount"
+* Wait "1" seconds
+* Write random email address to element "input_Email_Register"
+* Write value "Test123*" to element "input_Password"
+* Write value "Test123*" to element "input_PasswordAgain"
+* Wait "1" seconds
+//* Click to element "recaptcha_Checkbox"
+* Wait "2" seconds
+* Click to element "btn_Register"
+* Wait "2" seconds
+* Check if element "error_Message" contains text "This field is required."
+
+
+
+# Login to BAYKAR
+* Wait "2" seconds
+* Click to element "LOGIN"
+* Wait "1" seconds
+*Wait "1" seconds
+*Write value "logintest@login.com" to element "Email_LoginPage"
+*Write value "Test123*" to element "input_Password"
+*Click to element "btn_Login"
+* Wait "1" seconds
+* Check if element "error_LoginMessage" contains text "This field is required."
+
